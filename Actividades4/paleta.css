@@ -1,0 +1,63 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1 {
+    font-size:55px ;
+}
+h2 {
+    font-size: 35px;
+}
+ul {
+    list-style: none;
+}
+.verde1 {
+    background-color: #57C5B6;
+    color: white;
+}
+.verde2 {
+    background-color: #159895;
+    color: white;
+}
+.verde3 {
+    background-color: #1A5F7A;
+    color: white;
+}
+.azul1 {
+    background-color: #002B5B;
+    color: white;
+}
+.azul2 {
+    background-color: #0B2447;
+    color: white;
+}
+.violeta {
+    background-color: rgb(128, 72, 156);
+}
+.lila {
+    background-color:rgb(207, 77, 206);
+}
+.lila2 {
+    background-color:rgb(237, 80, 241);
+}
+.rosa1 {
+    background-color: rgb(242, 115, 230);
+}
+.rosa2 {
+    background-color: rgb(255, 170, 207);
+}
+.Azul{
+    background-color: hsl(223 100% 15.7%) ;
+}
+.aqua {
+    background-color: hsl(176 96.9% 37.5%);
+}
+.Lila {
+    background-color: hsl(253 37.3% 56.9%);
+}
+.Rosa {
+    background-color: hsl(334 98.7% 69.6%);
+}
+.Verde {
+    background-color: hsl(144 100% 43.7%);
+}
+

@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-size: 120px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+}
+
+p {
+    font-size: 48px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+.programadora-frontend {
+    color: blueviolet;
+}
+
+.ingles {
+    color: blue;
+}
+
+.musica {
+    color: aqua;
+}

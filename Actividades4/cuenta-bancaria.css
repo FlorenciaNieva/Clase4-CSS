@@ -1,0 +1,22 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1 {
+    font-size: 50px;
+}
+h2 {
+    font-size: 35px;
+}
+h3{
+    font-size: 25px;
+}
+.fecha {
+    color: rgb(148, 147, 147);
+    font-size: 10px;
+}
+.ingreso {
+    color: rgb(31, 226, 31);
+}
+.salida {
+    color: red;
+}

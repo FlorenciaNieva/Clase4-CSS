@@ -1,0 +1,19 @@
+h1 {
+    font-size: 400;
+    font-family: 'Courier New', Courier, monospace;
+}
+a {
+    text-decoration: none;
+}
+.gray {
+    color: gray;
+}
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.italica {
+    font-style: italic;
+}
+.negrita {
+    font-weight: 500;
+}

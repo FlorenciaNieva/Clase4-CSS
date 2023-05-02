@@ -1,0 +1,38 @@
+/* SELECTORES DE ETIQUETA: Es la forma en la cual llamamos a las etiqutas, por su nombre de etiqueta, para modificar los estilos */
+body {
+    background-color: blue;
+    /* siempre va a prevalecer el último valor, es decir que la cascada pisa el valor anterior */
+    background-color: blueviolet;
+}
+h1 {
+    color: white;
+    background-color: blue;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
+
+/* SELECTOR DE CLASES: class */
+.parrafo-color {
+    color:fuchsia;
+}
+
+/* SELECTOR DE IDENTIFICADOR: solo se utiliza una unica vez */
+#parrafo-unico {
+    color: coral;
+}
+
+.conteiner {
+    background-color: antiquewhite;
+}
+
+#subtitulo-contacto {
+    color: brown;
+}
+
+.subtitulo-mediano {
+    font-size: 18px;
+}
+
+.pie-de-pagina {
+    background-color: indigo;
+}
